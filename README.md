@@ -1,4 +1,7 @@
-# Image Resizer in JavaScript
+# Image Resizer 
+
+![image](https://github.com/user-attachments/assets/48c8fac7-ca42-43ea-8a09-32e2285dff9a)
+
 
 ## Overview
 This project is a user-friendly **Image Resizer** created with HTML, CSS, and JavaScript. It allows users to upload an image, adjust its dimensions, and download the resized version with ease. The tool also provides options to lock the aspect ratio and reduce the image quality for optimization.
