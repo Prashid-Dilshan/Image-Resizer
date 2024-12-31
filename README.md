@@ -1,6 +1,8 @@
 # Image Resizer 
 
 ![image](https://github.com/user-attachments/assets/48c8fac7-ca42-43ea-8a09-32e2285dff9a)
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/446d8428-e97c-49f0-ad67-a3c3a93c8420)
 
 
