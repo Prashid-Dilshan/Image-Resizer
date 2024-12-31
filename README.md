@@ -14,12 +14,14 @@ This project is a user-friendly **Image Resizer** created with HTML, CSS, and Ja
 - **HTML:** Provides the layout and structure of the application.
 - **CSS (style.css):** Handles the design and styling for a clean, modern user interface.
 - **JavaScript (script.js):** Implements the logic for image resizing, aspect ratio locking, and quality reduction.
-- **Boxicons Library:** Adds visually appealing icons for a polished look.
+
 
 ## Technologies Used
 - **HTML5** for structure.
 - **CSS3** for responsive and aesthetic design.
 - **JavaScript** for core functionality.
-- **Boxicons** for icon styling.
 
+
+## Acknowledgments
+This project was created by **Prashid Dilshan** as part of a front-end development exercise.  
 
