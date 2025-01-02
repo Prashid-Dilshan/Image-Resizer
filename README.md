@@ -29,6 +29,8 @@ This project is a user-friendly **Image Resizer** created with HTML, CSS, and Ja
 - **JavaScript** for core functionality.
 
 
-## Acknowledgments
-This project was created by **Prashid Dilshan** as part of a front-end development exercise.  
+---
+
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise.  
 
